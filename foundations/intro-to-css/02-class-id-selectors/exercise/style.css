@@ -1,0 +1,25 @@
+/*
+first the classes
+*/
+.odd {
+    background-color: rgb(236, 143, 143);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+} 
+
+.big {
+    font-size: 24px;
+}
+
+/*
+Second the IDs... other wise there are problems
+Somehow this is not reproducible. So it looks like, it does not matter.
+*/
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#bold-green {
+    font-weight: bold;
+    background-color: rgb(124, 230, 124);
+}
